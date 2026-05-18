@@ -13,7 +13,6 @@ O CMS controla:
 - 🙌 Projetos (ações e iniciativas)
 - 📺 Cultos (estrutura preparada, mesmo com vídeos vindo do YouTube)
 
----
 
 ## 🚀 Tecnologias
 
@@ -21,7 +20,6 @@ O CMS controla:
 - TypeScript
 - Vite
 
----
 
 ## 📦 Estrutura
 
@@ -36,7 +34,6 @@ studio-ibcaminho/
 ├── sanity.cli.ts
 ```
 
----
 
 ## ⚙️ Rodando localmente
 
@@ -51,7 +48,6 @@ O Studio estará disponível em:
 http://localhost:3333
 ```
 
----
 
 ## 🌐 Deploy
 
@@ -64,7 +60,6 @@ Para fazer deploy:
 npx sanity deploy
 ```
 
----
 
 ## 🧠 Como usar
 
@@ -75,9 +70,8 @@ npx sanity deploy
 - Eventos
 - Projetos
 
-1. As alterações são refletidas automaticamente no app
+3. As alterações são refletidas automaticamente no app
 
----
 
 ## 🔐 Configuração
 
@@ -86,7 +80,6 @@ projectId: 'y9my9x5h'
 dataset: 'production'
 ```
 
----
 
 ## ⚠️ Observações
 
